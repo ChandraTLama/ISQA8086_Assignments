@@ -15,7 +15,7 @@ It consists of two sections i.e. meta and results.
 
 
 ### File to Download
-[Food Event data](food-event-0001-of-0001.json)
+Since the data is larger than 100 MB that github allow to upload, data on food event can be downloaded from [https://open.fda.gov/downloads/](https://open.fda.gov/downloads/)
 
 ## License
 
