@@ -10,8 +10,9 @@ This is the open FDA (U.S. Food & Drug Administration) data regarding the food e
 * Sample Column Header :
 
 It consists of two sections i.e. meta and results.  
-* meta - consists of desclaimer,a link to the openFDA data license, and information about the results that follow.
-*results - consists of array of matching records for reactions, report_number, outcomes, products, date_created, date_started, consumer.	
+ 
+* meta - consists of desclaimer,a link to the openFDA data license, and information about the results that follow.  
+* results - consists of array of matching records for reactions, report_number, outcomes, products, date_created, date_started, consumer.	
 
 
 ### File to Download
