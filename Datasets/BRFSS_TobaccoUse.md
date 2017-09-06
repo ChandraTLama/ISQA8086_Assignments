@@ -18,7 +18,7 @@ YEAR,LocationAbbr,LocationDesc,TopicType,TopicDesc,MeasureDesc,DataSource,Respon
 
 ## License
 
-This project is licensed under public Domain. Source link is [CDC] (http://www.cdc.gov/brfss/)
+This project is licensed under public Domain. Source link is [CDC](http://www.cdc.gov/brfss/)
 
 
 ## Potential User and Decision Maker
