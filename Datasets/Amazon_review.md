@@ -43,6 +43,6 @@ Potential data user can be public, App developers, marketing personnels, product
 
 ## Citation
 
-R. He, J. McAuley, Ups and downs: Modeling the visual evolution of fashion trends with one-class, WWW, 2016
-J. McAuley, C. Targett, J. Shi, A. van den Hengel, Image-based recommendations on styles and substitutes, SIGIR, 2015
+R. He, J. McAuley, Ups and downs: Modeling the visual evolution of fashion trends with one-class, WWW, 2016  
+J. McAuley, C. Targett, J. Shi, A. van den Hengel, Image-based recommendations on styles and substitutes, SIGIR, 2015  
 J.Leskovec, A. Krevl, SNAP Datasets, Standford Large Network Dataset Collection, Jun 2014, Retrieved from [http://snap.stanford.edu/data](http://snap.stanford.edu/data)
