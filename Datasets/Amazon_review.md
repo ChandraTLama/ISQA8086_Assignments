@@ -22,7 +22,7 @@ This data is downloaded from [http://jmcauley.ucsd.edu/data/amazon/](http://jmca
 
 
 ### File to Download
-Since the data is larger than 100 MB that github allow to upload, data on food event can be downloaded from [http://jmcauley.ucsd.edu/data/amazon/](http://jmcauley.ucsd.edu/data/amazon/) and under "Small" subsets for experimentation we can choose Apps for Android. 
+Since the data is larger than 100 MB that github allow to upload, data on amazon review on android app can be downloaded from [http://jmcauley.ucsd.edu/data/amazon/](http://jmcauley.ucsd.edu/data/amazon/) and under "Small" subsets for experimentation we can choose Apps for Android. 
 
 ## License
 SNAP is distributed under the BSD license. This means that it is free for both academic and commercial use. Note however that some third party components in SNAP require that you reference certain works in scientific publications.
