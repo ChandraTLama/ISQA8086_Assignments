@@ -1,10 +1,11 @@
-# Data Entry Analysi
+# Data Entry Analysis
 
 In this assignment, we are going to analyze 3 files which consists of data related to planktons especially focussed on two species - "Conochilus unicornis"
 and "Conochilus hippocrepis".Since planktons might be different as per the depth from which they are collected and their dictributions also varies from 
-day to night, Planktons are collected from certain depths during both day and night.
+day to night, Planktons are collected from certain depths during both day and night. The main goal of this data collection is to study day-night distribution of 2 species of zooplankton in various depth from surface water
+for several years. 
 
-## 1. Problems in data
+## 1. Problems in data/files
 * Data format is not same in all files. in file 1 "pond2010", under species column, types of planktons - Cuni or Chippo are mentioned while in other two files each species have separate columns as Cuni#/L and Chippo#/L.
 * In file 1 "pond2010", column density doesn't have unit of measurement. It should be individuals/liter or individuals/millilitre. 
 In 2 of 3 files, unit of measurement for depth is not given. For temperature, there is no any unit mentioned - not sure whether it is celcius or fahrenheit.
